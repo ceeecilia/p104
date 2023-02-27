@@ -1,0 +1,25 @@
+body 
+{
+    color:#7d7d7d;
+    background:#cfcfe8;
+}
+
+.heading
+{
+    width:80%;
+    font-size:22px;
+    color:#2c2c73;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color:#2c2c73;
+}
+
+#result
+{
+    border:2px dashed black;
+    width:354px;
+    height:304px;
+}
+
